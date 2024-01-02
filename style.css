@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(65, 62, 62);
+    font-family:initial;
+}
+.home{
+    color: black;
+    text-decoration:  overline coral;
+}
+.home:hover{
+    color:orange;
+}
+.bgimg{
+    display: flex;
+    margin: auto;
+}
+.anim{
+    height: 400px;
+    width: 300px;
+    background-color: aqua;
+}
+.logo{
+    color: black;
+}
+.back{
+    width: 200px;
+    height: 200px;
+}
+.card{
+width: 200px;
+}
